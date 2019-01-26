@@ -1,5 +1,5 @@
 {
-  "name": "rest-graphql",
+  "name": "node-es6-express",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
     "serve": "node dist/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "@luispagarcia",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
